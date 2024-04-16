@@ -33,10 +33,13 @@ Because galpy can be computationally intensive, the figures using galpy computat
 data for simplicity.  However, we include the versions of the notebooks that execute galpy directly for those who wish to install the package
 and explore on their own.
 
-Another set of figures used the Python version of the [rebound](https://rebound.readthedocs.io/en/latest/) N-body integrator package.
-As with galpy, figures in this set that use rebound computations work with pre-calculated files for simplicity.  Installation of rebound is
-more involved, but if you want to run rebound for yourself or your students, we provide the notebooks that ran rebound for our figures
-to illustrate how it is used.
+Another set of figures used the Python version of the [rebound](https://rebound.readthedocs.io/en/latest/) N-body integrator package
+developed by Hanno Rein and collaborators. As with galpy, figures in this set that use rebound computations work with pre-calculated 
+files for simplicity.  Installation of rebound is more involved, but if you want to run rebound for yourself or your students, 
+we provide the notebooks that ran rebound for our figures to illustrate how it is used.
+
+The galpy and rebound packages have active user communities and there are many examples and guides to help you explore these
+powerful programs on your own.
 
 Supplementary exercises for students using galpy and rebound are being developed and will be released later.
 
