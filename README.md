@@ -8,9 +8,9 @@ soon.
 textbooks published by Cambridge University Press.  The audience for this series is graduate students and upper-level undergraduates studying
 astronomy and physics.
 
-Most of the figures in this book were created by the authors, the majority of which are plots of data or calculations made using
-Python programs implemented as Jupyter notebooks. We are making all the notebooks available on GitHub as an ancillary 
-to the book.
+Most of the original figures in this book were created by the Richard Pogge (OSU), the technical editor of the OSAS book series, the majority of 
+which are plots of data or calculations made using Python programs implemented as Jupyter notebooks. We are making all the notebooks available 
+on GitHub as an ancillary to the book.
 
 Instructors and students using *Celestial and Stellar Dynamics* are welcome to use these notebooks to make high-resolution versions
 of the book figures for presentations, adapt them for use in class, or to use as the basis for problem sets or projects in courses 
