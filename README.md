@@ -56,7 +56,7 @@ installation to shorten the name if you wish (e.g., `/path/to/wherever/CSD`).
 
 ### Update the notebooks and data
 
-To update your copy, go into the top-level folder you created above (e.g., `/path/to/wherever/SSE`) and type
+To update your copy, go into the top-level folder you created above (e.g., `/path/to/wherever/CSD`) and type
 
 > `git pull`
 
