@@ -67,7 +67,7 @@ If there are no updates, your local copy will be unaffected.
 The notebooks and their contents are original works of the authors and often include data obtained from public archives or from 
 professional colleagues (always from published sources).  We ask that users preserve all literature citations to the original work
 from which such data were derived, and give proper credit when using them. If you use these notebooks, please make
-reference to the *Stellar Structure and Evolution* book and this repository.
+reference to the *Celestial and Stellar Dynamics* book and this repository.
 
 ### License Notice
 
