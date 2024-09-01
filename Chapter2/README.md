@@ -17,7 +17,7 @@ Figures from Chapter 2 of Ryden, *Celestial and Stellar Dynamics*.
 
 `dataFile.txt` is ...
 
-## Production Artwork
+## Artwork
 
 <dl>
     <dd>Figure 2.1 - 
