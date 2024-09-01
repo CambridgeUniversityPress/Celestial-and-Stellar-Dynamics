@@ -53,6 +53,11 @@ plus the Hungarias, Hildas, and Jupiter Trojans brighter than H=16.
 with a table of the widths from https://www.minorplanetcenter.net/iau/info/CometOrbitFormat.html to read in the data.  Data are
 slightly edited relative to the MPC originals for clarity and renamed to distinguish it from the other files we provide.
 
+### Important Note about asteroid databases:
+
+The contents of the `Asteroids/` folder are all gzip compressed to fit on GitHub.  Once you download them onto your computer
+you need to unzip them (`gunzip`) before you can run the notebooks.
+
 ## Artwork
 
 <dl>
