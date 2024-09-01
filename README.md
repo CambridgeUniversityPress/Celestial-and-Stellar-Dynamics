@@ -1,7 +1,8 @@
 # *Celestial and Stellar Dynamics*
 
-Jupyter notebooks, python code, and selected data files and sources for the figures from *Celestial and Stellar Dynamics* by Barbara Ryden, coming
-soon.
+Jupyter notebooks, python code, and selected data files and sources for the figures from *Celestial and Stellar Dynamics* by Barbara Ryden.
+
+**In production, coming soon...**
 
 [!["CSD Cover"](Misc/CSD_Cover_512.png?raw=true "Celestial and Stellar Dynamics")](https://www.cambridge.org/highereducation/books/stellar-structure-and-evolution/B6F803BC5085E8736B640F9ED4A0FA27)
 
