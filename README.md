@@ -3,6 +3,8 @@
 Jupyter notebooks, python code, and selected data files and sources for the figures from *Celestial and Stellar Dynamics* by Barbara Ryden, coming
 soon.
 
+[!["CSD Cover"](Misc/CSD_Cover_512.png?raw=true "Celestial and Stellar Dynamics")](https://www.cambridge.org/highereducation/books/stellar-structure-and-evolution/B6F803BC5085E8736B640F9ED4A0FA27)
+
 ## Overview
 *Celestial and Stellar Dynamics* by Barbara S. Ryden is the third volume in *The Ohio State Astrophysics Series* of 
 textbooks published by Cambridge University Press.  The audience for this series is graduate students and upper-level undergraduates studying
