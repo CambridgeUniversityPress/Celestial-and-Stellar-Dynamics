@@ -9,8 +9,8 @@ None for this chapter
 ## Artwork
 
 <dl>
-    <dd>Figure 4.1 - 
-    <dd>Figure 4.2 - 
-    <dd>Figure 4.3 - 
+    <dd>Figure 4.1 - `Fig4_1.jpg`: A secondary of mass m2 exerts a gravitational force on a point mass located on the surface of a primary (PowerPoint original)
+    <dd>Figure 4.2 - `Fig4_2.jpg`: Tidal configuration including rotation and orbit of the two bodies (PowerPoint original)
+    <dd>Figure 4.3 - `Fig4_2.jpg`: Planet-moon tidal configurations with leading and trailing tidal bulges on the primary (PowerPoint original)
 </dl>
 
