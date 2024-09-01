@@ -14,9 +14,18 @@ Figures from Chapter 5 of Ryden, *Celestial and Stellar Dynamics*.
 
 ## Data Files
 
-### Figure 5.2 - ...
+### Figure 5.2 - RV curve of 51 Peg b
 
-`dataFile.txt` is ...
+`RVs/Birkby2017_table1.txt` is the radial velocity curve of 51 Pegasi b from the compendium of Birkby et al. 2017, AJ, 153, 138 with 
+data from thrir Table 1 downloaded from the VizieR cat/J/AJ/153/138.  See the accompanying `RVs/Birkby2017_readme.txt` file for 
+details.
+
+### Figure 5.3 - RV curves of eccentric exoplanets
+
+ * `RVs/HD20868_Moutou2009.txt` is  HARPS RV data for HD 20868 from Moutou et al. 2009, A&A, 496, 513, Figure 2.
+ * `RVs/HD181234_Rickman2019.txt` is CORALIE RV data for HD 181234 from Rickman et al. 2019, A&A, 625, 71, Figure 1.
+
+See the accompanying `RVs/Moutou2019_readme.txt` and `RVs/Rickman2019_readme.txt` files for details.
 
 ## Artwork
 
