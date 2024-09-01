@@ -16,9 +16,8 @@ Figures from Chapter 5 of Ryden, *Celestial and Stellar Dynamics*.
 
 ### Figure 5.2 - RV curve of 51 Peg b
 
-`RVs/Birkby2017_table1.txt` is the radial velocity curve of 51 Pegasi b from the compendium of Birkby et al. 2017, AJ, 153, 138 with 
-data from thrir Table 1 downloaded from the VizieR cat/J/AJ/153/138.  See the accompanying `RVs/Birkby2017_readme.txt` file for 
-details.
+ * `RVs/Birkby2017_table1.txt` is the radial velocity curve of 51 Pegasi b from the compendium of Birkby et al. 2017, AJ, 153, 138 with data from thrir Table 1 downloaded from the VizieR cat/J/AJ/153/138.
+ * `RVs/Birkby2017_readme.txt` text readme file with full details.
 
 ### Figure 5.3 - RV curves of eccentric exoplanets
 
@@ -41,6 +40,15 @@ Exoplanet models model M-R relations for spheres of pure iron, rock, water, and 
  * `Zeng_MR_PureH2.txt` - pure molecular hydrogen planets
  * `Zeng_MR_PureRock.txt` - pure rock planets
  * `Zeng_MR_PureH2O.txt` - pure water planets
+
+### Figure 5.7 - Transit Timing Variations in WASP-12b
+
+ * `TTVs/WASP12b.txt`- ascii text file with transit timing variation data for WASP-12b from Wong et al. 2022, AJ, 163, 175, data provided by Ian Wong.
+
+### Figure 5.8 - Transit Timing Variations in Kepler-419b and Kepler-88b
+
+ * `TTVs/Kepler-419b.txt` - ascii text file with transit timing variation data for Kepler-419b from Dawson et al. 2014, ApJ, 791, 89, data provided by Rachel Dawson
+ * `TTVs/Kepler-88b.txt` - ascii text filewith transit timing variation data for Kepler-88b, derived from Holczer et al. 2016, ApJS, 225, 9, using an electronic table from the VizeiR database provided by Tomer Holczer and edited into ASCII format for our purposes here
 
 ## Artwork
 
