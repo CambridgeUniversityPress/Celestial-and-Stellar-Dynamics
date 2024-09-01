@@ -1,0 +1,324 @@
+#,,,,,,,
+# Chen & Kipping 2017, ApJ,834,17,,,,
+# Table: J/ApJ/834/17/table1.dat (http://cdsarc.cds.unistra.fr),,,,,,,
+#,,,,,,,
+# converted to CSV for ease of handling with python/pandas,,,,,,,
+#,,,,,,,
+Name                 ,Mass,errMass,MassUnits,Rad,errRad,RadUnits,Ref
+NGC6791 KR V20       ,0.827,0.004,Msun,0.768,0.006,Rsun,2010A&ARv..18...67T
+HD 124784            ,0.854,0.003,Msun,0.83,0.004,Rsun,2010A&ARv..18...67T
+Parenago 1478        ,0.727,0.01,Msun,1.063,0.011,Rsun,2010A&ARv..18...67T
+HD 7700              ,0.764,0.004,Msun,0.835,0.018,Rsun,2010A&ARv..18...67T
+BD+34 4217           ,0.814,0.013,Msun,0.838,0.011,Rsun,2010A&ARv..18...67T
+TYC 3629-740-1       ,0.869,0.004,Msun,0.964,0.004,Rsun,2010A&ARv..18...67T
+GU Boo A             ,0.61,0.006,Msun,0.627,0.016,Rsun,2010A&ARv..18...67T
+GU Boo B             ,0.6,0.006,Msun,0.624,0.016,Rsun,2010A&ARv..18...67T
+YY Gem A             ,0.599,0.005,Msun,0.619,0.006,Rsun,2010A&ARv..18...67T
+YY Gem B             ,0.599,0.005,Msun,0.619,0.006,Rsun,2010A&ARv..18...67T
+CU Cnc A             ,0.435,0.001,Msun,0.432,0.006,Rsun,2010A&ARv..18...67T
+CU Cnc B             ,0.399,0.001,Msun,0.392,0.009,Rsun,2010A&ARv..18...67T
+CM Dra A             ,0.231,0.001,Msun,0.253,0.002,Rsun,2010A&ARv..18...67T
+CM Dra B             ,0.214,0.001,Msun,0.24,0.002,Rsun,2010A&ARv..18...67T
+MOTESS-GNAT 78457 A  ,0.527,0.002,Msun,0.505,0.011,Rsun,2011ApJ...728...48K
+MOTESS-GNAT 78457 B  ,0.491,0.001,Msun,0.471,0.011,Rsun,2011ApJ...728...48K
+MOTESS-GNAT 116309 A ,0.567,0.002,Msun,0.552,0.014,Rsun,2011ApJ...728...48K
+MOTESS-GNAT 116309 B ,0.532,0.002,Msun,0.532,0.009,Rsun,2011ApJ...728...48K
+MOTESS-GNAT 506664 A ,0.584,0.002,Msun,0.56,0.004,Rsun,2011ApJ...728...48K
+MOTESS-GNAT 506664 B ,0.544,0.002,Msun,0.513,0.008,Rsun,2011ApJ...728...48K
+MOTESS-GNAT 646680 A ,0.499,0.002,Msun,0.457,0.007,Rsun,2011ApJ...728...48K
+MOTESS-GNAT 646680 B ,0.443,0.002,Msun,0.427,0.006,Rsun,2011ApJ...728...48K
+MOTESS-GNAT 1819499 A,0.557,0.001,Msun,0.569,0.023,Rsun,2011ApJ...728...48K
+MOTESS-GNAT 1819499 B,0.535,0.001,Msun,0.5,0.014,Rsun,2011ApJ...728...48K
+MOTESS-GNAT 2056316 A,0.469,0.002,Msun,0.441,0.003,Rsun,2011ApJ...728...48K
+MOTESS-GNAT 2056316 B,0.382,0.001,Msun,0.374,0.003,Rsun,2011ApJ...728...48K
+NSVS 11868841 A      ,0.87,0.074,Msun,0.983,0.03,Rsun,2010RMxAA..46..363C
+NSVS 11868841 B      ,0.607,0.053,Msun,0.901,0.026,Rsun,2010RMxAA..46..363C
+KOI-686b             ,103.4,4.8,Mjup,1.216,0.037,Rjup,2014A&A...572A.109D
+KOI-189b             ,78,3.4,Mjup,0.998,0.023,Rjup,2014A&A...572A.109D
+OGLE-TR-123 B        ,0.085,0.011,Msun,0.133,0.009,Rsun,2006A&A...447.1035P
+GJ 570 A             ,0.802,0.04,Msun,0.739,0.019,Rsun,2009A&A...505..205D
+GJ 845               ,0.762,0.038,Msun,0.732,0.006,Rsun,2009A&A...505..205D
+GJ 879               ,0.725,0.036,Msun,0.629,0.051,Rsun,2009A&A...505..205D
+GJ 887               ,0.503,0.025,Msun,0.459,0.011,Rsun,2009A&A...505..205D
+GJ 551               ,0.118,0.012,Msun,0.141,0.007,Rsun,2012ApJ...757..112B
+SDSS0857+03 B        ,0.09,0.01,Msun,0.11,0.004,Rsun,2012MNRAS.419..304P
+NN Ser B             ,0.111,0.004,Msun,0.149,0.002,Rsun,2010MNRAS.402.2591P
+GK Vir B             ,0.116,0.003,Msun,0.155,0.003,Rsun,2012MNRAS.426.1950P
+OGLE-TR-106 B        ,0.116,0.021,Msun,0.181,0.013,Rsun,2005A&A...438.1123P
+HAT-TR-205-013 B     ,0.124,0.01,Msun,0.167,0.006,Rsun,2007ApJ...663..573B
+SDSS 0138-00 B       ,0.132,0.003,Msun,0.165,0.001,Rsun,2012MNRAS.426.1950P
+GJ 699               ,0.146,0.015,Msun,0.187,0.001,Rsun,2012ApJ...757..112B
+SDSS 1210+33 B       ,0.158,0.006,Msun,0.2,0.004,Rsun,2012MNRAS.419..817P
+SDSS 1548+40 B       ,0.173,0.027,Msun,0.181,0.015,Rsun,2009MNRAS.394..978P
+RR Cae B             ,0.183,0.013,Msun,0.209,0.014,Rsun,2007MNRAS.376..919M
+2MASS 0446+19 B      ,0.19,0.02,Msun,0.21,0.01,Rsun,2006AJ....131..555H
+HATS551-019 B        ,0.17,0.01,Msun,0.18,0.01,Rsun,2014MNRAS.437.2831Z
+Moon                 ,0.0123,0,Mgeo,0.272,0,Rgeo,GPMP
+Io                   ,0.015,0,Mgeo,0.285,0,Rgeo,GPMP
+Europa               ,0.00804,0,Mgeo,0.245,0,Rgeo,GPMP
+Ganymede             ,0.0248,0,Mgeo,0.413,0,Rgeo,GPMP
+Callisto             ,0.018,0,Mgeo,0.378,0,Rgeo,GPMP
+#Rhea                 ,0.000386,0,Mgeo,0.12,0,Rgeo,GPMP
+Titan                ,0.0225,0,Mgeo,0.404,0,Rgeo,GPMP
+#Titania              ,0.00059,0,Mgeo,0.124,0,Rgeo,GPMP
+#Oberon               ,0.000505,0,Mgeo,0.119,0,Rgeo,GPMP
+Triton               ,0.00358,0,Mgeo,0.212,0,Rgeo,GPMP
+Eris                 ,0.00278,0,Mgeo,0.182,0,Rgeo,GPMP
+Mercury              ,0.0553,0,Mgeo,0.383,0,Rgeo,NPFS
+Venus                ,0.815,0,Mgeo,0.949,0,Rgeo,NPFS
+Earth                ,1,0,Mgeo,1,0,Rgeo,NPFS
+Mars                 ,0.107,0,Mgeo,0.532,0,Rgeo,NPFS
+Jupiter              ,317.8,0,Mgeo,11.21,0,Rgeo,NPFS
+Saturn               ,95.2,0,Mgeo,9.45,0,Rgeo,NPFS
+Uranus               ,14.5,0,Mgeo,4.01,0,Rgeo,NPFS
+Neptune              ,17.1,0,Mgeo,3.88,0,Rgeo,NPFS
+Pluto                ,0.00218,0,Mgeo,0.186,0,Rgeo,NPFS
+55-Cnc e             ,0.0254,0.001,Mjup,0.1713,0.0071,Rjup,2016MNRAS.455.2018D
+CoRoT-01 b           ,1.03,0.1,Mjup,1.551,0.064,Rjup,2011MNRAS.417.2166S
+CoRoT-02 b           ,3.57,0.15,Mjup,1.46,0.031,Rjup,2012MNRAS.426.1291S
+CoRoT-03 b           ,21.96,0.703,Mjup,1.037,0.069,Rjup,2011MNRAS.417.2166S
+CoRoT-06 b           ,2.96,0.34,Mjup,1.185,0.041,Rjup,2011MNRAS.417.2166S
+CoRoT-07 b           ,0.0181,0.0027,Mjup,0.1414,0.0057,Rjup,2014A&A...569A..74B
+CoRoT-08 b           ,0.216,0.036,Mjup,0.712,0.083,Rjup,2011MNRAS.417.2166S
+CoRoT-09 b           ,0.826,0.083,Mjup,1.037,0.082,Rjup,2011MNRAS.417.2166S
+CoRoT-10 b           ,2.78,0.14,Mjup,0.941,0.085,Rjup,2011MNRAS.417.2166S
+CoRoT-11 b           ,2.34,0.39,Mjup,1.426,0.057,Rjup,2011MNRAS.417.2166S
+CoRoT-12 b           ,0.887,0.078,Mjup,1.35,0.075,Rjup,2011MNRAS.417.2166S
+CoRoT-13 b           ,1.312,0.096,Mjup,1.252,0.076,Rjup,2011MNRAS.417.2166S
+CoRoT-14 b           ,7.67,0.49,Mjup,1.018,0.079,Rjup,2011MNRAS.417.2166S
+CoRoT-18 b           ,3.27,0.17,Mjup,1.251,0.083,Rjup,2012MNRAS.426.1291S
+CoRoT-20 b           ,5.06,0.36,Mjup,1.16,0.26,Rjup,2012MNRAS.426.1291S
+CoRoT-21 b           ,2.26,0.33,Mjup,1.27,0.14,Rjup,2012A&A...545A...6P
+CoRoT-26 b           ,0.52,0.05,Mjup,1.26,0.13,Rjup,2013A&A...555A.118A
+CoRoT-27 b           ,10.39,0.55,Mjup,1.007,0.044,Rjup,2014A&A...562A.140P
+CoRoT-28 b           ,0.484,0.087,Mjup,0.955,0.066,Rjup,2015A&A...579A..36C
+CoRoT-29 b           ,0.85,0.2,Mjup,0.9,0.16,Rjup,2015A&A...579A..36C
+EPIC-203771098 c     ,0.085,0.022,Mjup,0.698,0.064,Rjup,2016ApJ...818...36P
+EPIC-204129699 b     ,1.774,0.079,Mjup,1.06,0.35,Rjup,2016AJ....152..132G
+EPIC-204221263 b     ,0.038,0.009,Mjup,0.138,0.014,Rjup,2016ApJ...827...78S
+GJ-0436 b            ,0.0799,0.0066,Mjup,0.366,0.014,Rjup,2014A&A...572A..73L
+GJ-1214 b            ,0.0197,0.0027,Mjup,0.254,0.018,Rjup,2013A&A...549A..10H
+GJ-3470 b            ,0.0432,0.0051,Mjup,0.346,0.029,Rjup,2014MNRAS.443.1810B
+HAT-P-01 b           ,0.525,0.019,Mjup,1.319,0.019,Rjup,2014MNRAS.437...46N
+HAT-P-02 b           ,8.74,0.27,Mjup,1.19,0.12,Rjup,2010MNRAS.408.1689S
+HAT-P-03 b           ,0.584,0.027,Mjup,0.947,0.03,Rjup,2012MNRAS.426.1291S
+HAT-P-05 b           ,1.06,0.11,Mjup,1.252,0.043,Rjup,2012MNRAS.422.3099S
+HAT-P-06 b           ,1.063,0.057,Mjup,1.395,0.081,Rjup,2012MNRAS.426.1291S
+HAT-P-07 b           ,1.87,0.03,Mjup,1.526,0.008,Rjup,2014PASJ...66...94B
+HAT-P-08 b           ,1.275,0.053,Mjup,1.321,0.04,Rjup,2013A&A...551A..11M
+HAT-P-09 b           ,0.778,0.083,Mjup,1.38,0.1,Rjup,2012MNRAS.426.1291S
+HAT-P-11 b           ,0.084,0.0068,Mjup,0.3966,0.0094,Rjup,2011MNRAS.417.2166S
+HAT-P-12 b           ,0.21,0.012,Mjup,0.936,0.012,Rjup,2012AJ....143...95L
+HAT-P-13 b           ,0.906,0.03,Mjup,1.487,0.041,Rjup,2012MNRAS.420.2580S
+HAT-P-14 b           ,2.271,0.083,Mjup,1.219,0.059,Rjup,2012MNRAS.426.1291S
+HAT-P-15 b           ,1.946,0.066,Mjup,1.072,0.043,Rjup,2010ApJ...724..866K
+HAT-P-16 b           ,4.193,0.128,Mjup,1.19,0.037,Rjup,2013A&A...557A..30C
+HAT-P-17 b           ,0.534,0.018,Mjup,1.01,0.029,Rjup,2012ApJ...749..134H
+HAT-P-18 b           ,0.196,0.008,Mjup,0.947,0.044,Rjup,2014A&A...564L..13E
+HAT-P-19 b           ,0.292,0.018,Mjup,1.132,0.072,Rjup,2011ApJ...726...52H
+HAT-P-20 b           ,7.246,0.187,Mjup,0.867,0.033,Rjup,2011ApJ...742..116B
+HAT-P-21 b           ,4.063,0.161,Mjup,1.024,0.092,Rjup,2011ApJ...742..116B
+HAT-P-22 b           ,2.147,0.061,Mjup,1.08,0.058,Rjup,2011ApJ...742..116B
+HAT-P-23 b           ,2.07,0.12,Mjup,1.224,0.037,Rjup,2015A&A...577A..54C
+HAT-P-30 b           ,0.711,0.028,Mjup,1.34,0.065,Rjup,2011ApJ...735...24J
+HAT-P-32 b           ,0.86,0.164,Mjup,1.789,0.025,Rjup,2011ApJ...742...59H
+HAT-P-33 b           ,0.762,0.101,Mjup,1.686,0.045,Rjup,2011ApJ...742...59H
+HAT-P-35 b           ,1.054,0.033,Mjup,1.332,0.098,Rjup,2012AJ....144...19B
+HAT-P-36 b           ,1.852,0.095,Mjup,1.304,0.025,Rjup,2015A&A...579A.136M
+HAT-P-37 b           ,1.169,0.103,Mjup,1.178,0.077,Rjup,2012AJ....144...19B
+HAT-P-40 b           ,0.615,0.038,Mjup,1.73,0.062,Rjup,2012AJ....144..139H
+HAT-P-42 b           ,1.044,0.083,Mjup,1.28,0.153,Rjup,2013A&A...558A..86B
+HAT-P-50 b           ,1.35,0.073,Mjup,1.288,0.064,Rjup,2015AJ....150..168H
+HAT-P-51 b           ,0.309,0.018,Mjup,1.293,0.054,Rjup,2015AJ....150..168H
+HAT-P-52 b           ,0.818,0.029,Mjup,1.009,0.072,Rjup,2015AJ....150..168H
+HAT-P-53 b           ,1.484,0.056,Mjup,1.318,0.091,Rjup,2015AJ....150..168H
+HAT-P-54 b           ,0.76,0.032,Mjup,0.944,0.028,Rjup,2015AJ....149..149B
+HAT-P-55 b           ,0.582,0.056,Mjup,1.182,0.055,Rjup,2015PASP..127..851J
+HAT-P-56 b           ,2.18,0.25,Mjup,1.466,0.04,Rjup,2015AJ....150...85H
+HATS-02 b            ,1.345,0.15,Mjup,1.168,0.03,Rjup,2013A&A...558A..55M
+HATS-03 b            ,1.071,0.136,Mjup,1.381,0.035,Rjup,2013AJ....146..113B
+HATS-04 b            ,1.323,0.028,Mjup,1.02,0.037,Rjup,2014AJ....148...29J
+HATS-05 b            ,0.237,0.012,Mjup,0.912,0.025,Rjup,2014AJ....147..144Z
+HATS-06 b            ,0.319,0.07,Mjup,0.998,0.019,Rjup,2015AJ....149..166H
+HATS-09 b            ,0.837,0.029,Mjup,1.065,0.098,Rjup,2015AJ....150...33B
+HATS-13 b            ,0.543,0.072,Mjup,1.212,0.035,Rjup,2015A&A...580A..63M
+HATS-15 b            ,2.17,0.15,Mjup,1.105,0.04,Rjup,2016PASP..128g4401C
+HATS-16 b            ,3.27,0.19,Mjup,1.3,0.15,Rjup,2016PASP..128g4401C
+HATS-17 b            ,1.338,0.065,Mjup,0.777,0.056,Rjup,2016AJ....151...89B
+HD-017156 b          ,3.262,0.113,Mjup,1.065,0.035,Rjup,2011MNRAS.417.2166S
+HD-080606 b          ,4.114,0.155,Mjup,1.003,0.027,Rjup,2011MNRAS.417.2166S
+HD-097658 b          ,0.0238,0.0026,Mjup,0.2005,0.0087,Rjup,2014ApJ...786....2V
+HD-149026 b          ,0.368,0.014,Mjup,0.813,0.027,Rjup,2009ApJ...696..241C
+HD-189733 b          ,1.15,0.039,Mjup,1.151,0.038,Rjup,2010MNRAS.408.1689S
+HD-209458 b          ,0.714,0.017,Mjup,1.38,0.017,Rjup,2010MNRAS.408.1689S
+HD-219134 b          ,0.0136,0.0015,Mjup,0.1433,0.0077,Rjup,2015A&A...584A..72M
+K2-02 b              ,0.037,0.004,Mjup,0.226,0.016,Rjup,2015ApJ...800...59V
+K2-19 b              ,0.138,0.038,Mjup,0.666,0.068,Rjup,2015MNRAS.454.4267B
+KELT-03 b            ,1.477,0.066,Mjup,1.345,0.072,Rjup,2013ApJ...773...64P
+KELT-04 b            ,0.902,0.06,Mjup,1.699,0.046,Rjup,2016AJ....151...45E
+KELT-07 b            ,1.28,0.18,Mjup,1.533,0.047,Rjup,2015AJ....150...12B
+KELT-15 b            ,1.196,0.072,Mjup,1.52,0.12,Rjup,2016AJ....151..138R
+Kepler-07 b          ,0.453,0.068,Mjup,1.649,0.038,Rjup,2012MNRAS.426.1291S
+Kepler-08 b          ,0.59,0.12,Mjup,1.381,0.037,Rjup,2011MNRAS.417.2166S
+Kepler-09 b          ,0.142,0.005,Mjup,0.99,0.009,Rjup,2014arXiv1403.1372D
+Kepler-09 c          ,0.098,0.003,Mjup,0.955,0.009,Rjup,2014arXiv1403.1372D
+Kepler-14 b          ,7.68,0.38,Mjup,1.126,0.049,Rjup,2012MNRAS.426.1291S
+Kepler-15 b          ,0.696,0.099,Mjup,1.289,0.054,Rjup,2012MNRAS.426.1291S
+Kepler-18 c          ,0.054,0.006,Mjup,0.49,0.023,Rjup,2011ApJS..197....7C
+Kepler-18 d          ,0.0516,0.0044,Mjup,0.623,0.029,Rjup,2011ApJS..197....7C
+Kepler-25 c          ,0.077,0.018,Mjup,0.464,0.008,Rjup,2014ApJS..210...20M
+Kepler-26 b          ,0.0161,0.002,Mjup,0.248,0.01,Rjup,2016ApJ...820...39J
+Kepler-26 c          ,0.0195,0.0021,Mjup,0.243,0.011,Rjup,2016ApJ...820...39J
+Kepler-29 b          ,0.0142,0.0046,Mjup,0.299,0.02,Rjup,2016ApJ...820...39J
+Kepler-29 c          ,0.0126,0.0041,Mjup,0.28,0.018,Rjup,2016ApJ...820...39J
+Kepler-30 b          ,0.0355,0.0044,Mjup,0.35,0.02,Rjup,2012Natur.487..449S
+Kepler-30 d          ,0.0727,0.0085,Mjup,0.79,0.04,Rjup,2012Natur.487..449S
+Kepler-34 b          ,0.22,0.011,Mjup,0.764,0.045,Rjup,2012Natur.481..475W
+Kepler-35 b          ,0.127,0.02,Mjup,0.728,0.014,Rjup,2012Natur.481..475W
+Kepler-39 b          ,19.1,1,Mjup,1.11,0.03,Rjup,2015A&A...575A..85B
+Kepler-40 b          ,2.16,0.43,Mjup,1.44,0.12,Rjup,2012MNRAS.426.1291S
+Kepler-41 b          ,0.56,0.08,Mjup,1.29,0.02,Rjup,2015A&A...575A..85B
+Kepler-43 b          ,3.09,0.21,Mjup,1.115,0.041,Rjup,2015A&A...575A..85B
+Kepler-44 b          ,1,0.1,Mjup,1.09,0.07,Rjup,2015A&A...575A..85B
+Kepler-45 b          ,0.5,0.06,Mjup,0.999,0.069,Rjup,2012MNRAS.426.1291S
+Kepler-48 c          ,0.046,0.007,Mjup,0.242,0.012,Rjup,2014ApJS..210...20M
+Kepler-51 d          ,0.0239,0.0035,Mjup,0.865,0.045,Rjup,2014ApJ...783...53M
+Kepler-56 b          ,0.069,0.012,Mjup,0.581,0.025,Rjup,2013Sci...342..331H
+Kepler-56 c          ,0.569,0.066,Mjup,0.874,0.041,Rjup,2013Sci...342..331H
+Kepler-60 c          ,0.0121,0.0026,Mjup,0.17,0.013,Rjup,2016ApJ...820...39J
+Kepler-74 b          ,0.63,0.12,Mjup,0.96,0.02,Rjup,2015A&A...575A..85B
+Kepler-75 b          ,10.1,0.4,Mjup,1.05,0.03,Rjup,2015A&A...575A..85B
+Kepler-76 b          ,2.18,0.42,Mjup,1.25,0.08,Rjup,2015ApJ...800...73F
+Kepler-77 b          ,0.43,0.032,Mjup,0.96,0.016,Rjup,2013A&A...557A..74G
+Kepler-78 b          ,0.0059,0.0008,Mjup,0.107,0.008,Rjup,2015ApJ...808..127G
+Kepler-79 e          ,0.0129,0.0038,Mjup,0.311,0.012,Rjup,2014ApJ...785...15J
+Kepler-87 b          ,1.02,0.028,Mjup,1.203,0.049,Rjup,2014A&A...561A.103O
+Kepler-87 c          ,0.0201,0.0025,Mjup,0.548,0.026,Rjup,2014A&A...561A.103O
+Kepler-88 b          ,0.0274,0.0079,Mjup,0.337,0.035,Rjup,2013ApJ...777....3N
+Kepler-89 d          ,0.333,0.035,Mjup,1.005,0.095,Rjup,2013ApJ...768...14W
+Kepler-93 b          ,0.0126,0.0021,Mjup,0.1319,0.0017,Rjup,2015ApJ...800..135D
+Kepler-94 b          ,0.034,0.004,Mjup,0.313,0.013,Rjup,2014ApJS..210...20M
+Kepler-95 b          ,0.041,0.009,Mjup,0.305,0.008,Rjup,2014ApJS..210...20M
+Kepler-99 b          ,0.019,0.004,Mjup,0.132,0.007,Rjup,2014ApJS..210...20M
+Kepler-101 b         ,0.161,0.016,Mjup,0.515,0.076,Rjup,2014A&A...572A...2B
+Kepler-102 e         ,0.028,0.006,Mjup,0.198,0.006,Rjup,2014ApJS..210...20M
+Kepler-105 c         ,0.0145,0.0029,Mjup,0.117,0.006,Rjup,2016ApJ...827...86K
+Kepler-106 c         ,0.033,0.01,Mjup,0.223,0.029,Rjup,2014ApJS..210...20M
+Kepler-117 c         ,1.84,0.18,Mjup,1.101,0.035,Rjup,2015A&A...573A.124B
+Kepler-131 b         ,0.051,0.011,Mjup,0.215,0.018,Rjup,2014ApJS..210...20M
+Kepler-289 c         ,0.013,0.003,Mjup,0.239,0.015,Rjup,2014ApJ...795..167S
+Kepler-289 d         ,0.415,0.053,Mjup,1.034,0.017,Rjup,2014ApJ...795..167S
+Kepler-307 b         ,0.0234,0.0029,Mjup,0.217,0.008,Rjup,2016ApJ...820...39J
+Kepler-406 b         ,0.02,0.004,Mjup,0.128,0.003,Rjup,2014ApJS..210...20M
+Kepler-412 b         ,0.939,0.085,Mjup,1.325,0.043,Rjup,2014A&A...564A..56D
+Kepler-420 b         ,1.45,0.35,Mjup,0.94,0.12,Rjup,2014A&A...571A..37S
+Kepler-422 b         ,0.43,0.13,Mjup,1.15,0.11,Rjup,2014ApJ...795..151E
+Kepler-423 b         ,0.595,0.081,Mjup,1.192,0.052,Rjup,2015A&A...576A..11G
+Kepler-433 b         ,2.82,0.52,Mjup,1.45,0.16,Rjup,2015A&A...575A..71A
+Kepler-435 b         ,0.84,0.15,Mjup,1.99,0.18,Rjup,2015A&A...575A..71A
+Kepler-447 b         ,1.37,0.16,Mjup,1.65,0.2,Rjup,2015A&A...577A.105L
+Kepler-454 b         ,0.0214,0.0044,Mjup,0.211,0.012,Rjup,2016ApJ...816...95G
+KOI-188 b            ,0.25,0.08,Mjup,0.978,0.022,Rjup,2014A&A...572A..93H
+KOI-192 b            ,0.29,0.09,Mjup,1.23,0.21,Rjup,2014A&A...572A..93H
+KOI-195 b            ,0.34,0.08,Mjup,1.09,0.03,Rjup,2014A&A...572A..93H
+KOI-372 b            ,3.25,0.2,Mjup,0.882,0.088,Rjup,2016A&A...590A.112M
+KOI-830 b            ,1.27,0.19,Mjup,1.08,0.03,Rjup,2014A&A...572A..93H
+KOI-1474 b           ,2.6,0.3,Mjup,0.96,0.12,Rjup,2014ApJ...791...89D
+LHS-6343 b           ,62.1,1.2,Mjup,0.783,0.011,Rjup,2015ApJ...800..134M
+OGLE-TR-010 b        ,0.68,0.15,Mjup,1.72,0.11,Rjup,2010MNRAS.408.1689S
+OGLE-TR-056 b        ,1.41,0.17,Mjup,1.734,0.058,Rjup,2012MNRAS.426.1291S
+OGLE-TR-111 b        ,0.55,0.1,Mjup,1.011,0.038,Rjup,2012MNRAS.426.1291S
+OGLE-TR-113 b        ,1.23,0.2,Mjup,1.088,0.054,Rjup,2012MNRAS.426.1291S
+OGLE-TR-132 b        ,1.17,0.15,Mjup,1.229,0.075,Rjup,2012MNRAS.426.1291S
+OGLE-TR-182 b        ,1.06,0.15,Mjup,1.47,0.14,Rjup,2010MNRAS.408.1689S
+Qatar-1 b            ,1.294,0.052,Mjup,1.143,0.026,Rjup,2017AJ....153...78C
+Qatar-2 b            ,2.494,0.054,Mjup,1.254,0.013,Rjup,2014MNRAS.443.2391M
+TrES-1 b             ,0.761,0.051,Mjup,1.099,0.035,Rjup,2010MNRAS.408.1689S
+TrES-2 b             ,1.206,0.049,Mjup,1.193,0.023,Rjup,2011MNRAS.417.2166S
+TrES-3 b             ,1.899,0.062,Mjup,1.31,0.019,Rjup,2011MNRAS.417.2166S
+TrES-5 b             ,1.79,0.068,Mjup,1.194,0.015,Rjup,2015MNRAS.448.2546B
+WASP-02 b            ,0.88,0.038,Mjup,1.063,0.028,Rjup,2012MNRAS.426.1291S
+WASP-04 b            ,1.249,0.052,Mjup,1.364,0.028,Rjup,2012MNRAS.426.1291S
+WASP-05 b            ,1.595,0.052,Mjup,1.175,0.055,Rjup,2012MNRAS.426.1291S
+WASP-06 b            ,0.485,0.028,Mjup,1.23,0.037,Rjup,2015MNRAS.450.1760T
+WASP-07 b            ,0.98,0.13,Mjup,1.374,0.094,Rjup,2012MNRAS.426.1291S
+WASP-11 b            ,0.492,0.024,Mjup,0.99,0.023,Rjup,2015A&A...579A.136M
+WASP-13 b            ,0.512,0.06,Mjup,1.528,0.084,Rjup,2012MNRAS.426.1291S
+WASP-15 b            ,0.592,0.019,Mjup,1.408,0.046,Rjup,2013MNRAS.434.1300S
+WASP-16 b            ,0.832,0.038,Mjup,1.218,0.04,Rjup,2013MNRAS.434.1300S
+WASP-17 b            ,0.477,0.033,Mjup,1.932,0.053,Rjup,2012MNRAS.426.1338S
+WASP-18 b            ,10.52,0.32,Mjup,1.204,0.028,Rjup,2013MNRAS.428.2645M
+WASP-19 b            ,1.139,0.036,Mjup,1.41,0.021,Rjup,2013MNRAS.436....2M
+WASP-20 b            ,0.311,0.017,Mjup,1.462,0.059,Rjup,2015A&A...575A..61A
+WASP-21 b            ,0.276,0.019,Mjup,1.162,0.054,Rjup,2013A&A...557A..30C
+WASP-24 b            ,1.109,0.054,Mjup,1.303,0.047,Rjup,2014MNRAS.444..776S
+WASP-25 b            ,0.598,0.046,Mjup,1.247,0.032,Rjup,2014MNRAS.444..776S
+WASP-26 b            ,1.02,0.033,Mjup,1.216,0.047,Rjup,2014MNRAS.444..776S
+WASP-28 b            ,0.907,0.043,Mjup,1.213,0.042,Rjup,2015A&A...575A..61A
+WASP-29 b            ,0.244,0.02,Mjup,0.776,0.043,Rjup,2013MNRAS.428.3680G
+WASP-31 b            ,0.478,0.029,Mjup,1.549,0.05,Rjup,2011A&A...531A..60A
+WASP-32 b            ,3.6,0.07,Mjup,1.18,0.07,Rjup,2010PASP..122.1465M
+WASP-35 b            ,0.72,0.06,Mjup,1.32,0.05,Rjup,2011AJ....142...86E
+WASP-36 b            ,2.303,0.068,Mjup,1.281,0.029,Rjup,2012AJ....143...81S
+WASP-38 b            ,2.691,0.058,Mjup,1.094,0.029,Rjup,2011A&A...525A..54B
+WASP-39 b            ,0.28,0.03,Mjup,1.27,0.04,Rjup,2011A&A...531A..40F
+WASP-41 b            ,0.977,0.026,Mjup,1.178,0.018,Rjup,2016MNRAS.457.4205S
+WASP-42 b            ,0.527,0.028,Mjup,1.122,0.039,Rjup,2016MNRAS.457.4205S
+WASP-43 b            ,2.034,0.052,Mjup,1.036,0.019,Rjup,2012A&A...542A...4G
+WASP-44 b            ,0.869,0.081,Mjup,1.002,0.038,Rjup,2013MNRAS.430.2932M
+WASP-45 b            ,1.002,0.062,Mjup,0.992,0.038,Rjup,2016MNRAS.456..990C
+WASP-46 b            ,1.91,0.13,Mjup,1.174,0.037,Rjup,2016MNRAS.456..990C
+WASP-47 b            ,1.13,0.06,Mjup,1.134,0.039,Rjup,2015ApJ...812L..18B
+WASP-47 c            ,0.038,0.012,Mjup,0.1621,0.0058,Rjup,2015ApJ...813L...9D
+WASP-48 b            ,0.907,0.085,Mjup,1.396,0.051,Rjup,2015A&A...577A..54C
+WASP-49 b            ,0.378,0.027,Mjup,1.115,0.047,Rjup,2012A&A...544A..72L
+WASP-50 b            ,1.437,0.068,Mjup,1.138,0.026,Rjup,2013MNRAS.431..966T
+WASP-52 b            ,0.46,0.02,Mjup,1.166,0.088,Rjup,2015JATIS...1b7002S
+WASP-54 b            ,0.636,0.025,Mjup,1.653,0.09,Rjup,2013A&A...551A..73F
+WASP-56 b            ,0.571,0.035,Mjup,1.092,0.035,Rjup,2013A&A...551A..73F
+WASP-57 b            ,0.644,0.062,Mjup,1.05,0.053,Rjup,2015MNRAS.454.3094S
+WASP-58 b            ,0.89,0.07,Mjup,1.37,0.2,Rjup,2013A&A...549A.134H
+WASP-59 b            ,0.863,0.045,Mjup,0.775,0.068,Rjup,2013A&A...549A.134H
+WASP-60 b            ,0.514,0.034,Mjup,0.86,0.12,Rjup,2013A&A...549A.134H
+WASP-61 b            ,2.06,0.17,Mjup,1.24,0.03,Rjup,2012MNRAS.426..739H
+WASP-62 b            ,0.57,0.04,Mjup,1.39,0.06,Rjup,2012MNRAS.426..739H
+WASP-64 b            ,1.271,0.068,Mjup,1.271,0.039,Rjup,2013A&A...552A..82G
+WASP-65 b            ,1.55,0.16,Mjup,1.112,0.059,Rjup,2013A&A...559A..36G
+WASP-66 b            ,2.32,0.13,Mjup,1.39,0.09,Rjup,2012MNRAS.426..739H
+WASP-67 b            ,0.406,0.035,Mjup,1.091,0.046,Rjup,2014A&A...568A.127M
+WASP-69 b            ,0.26,0.017,Mjup,1.057,0.047,Rjup,2014MNRAS.445.1114A
+WASP-71 b            ,2.242,0.08,Mjup,1.46,0.13,Rjup,2013A&A...552A.120S
+WASP-72 b            ,1.461,0.059,Mjup,1.27,0.2,Rjup,2013A&A...552A..82G
+WASP-74 b            ,0.95,0.06,Mjup,1.56,0.06,Rjup,2015AJ....150...18H
+WASP-75 b            ,1.07,0.05,Mjup,1.27,0.048,Rjup,2013A&A...559A..36G
+WASP-77 b            ,1.76,0.06,Mjup,1.21,0.02,Rjup,2013PASP..125...48M
+WASP-78 b            ,0.89,0.08,Mjup,1.7,0.11,Rjup,2012A&A...547A..61S
+WASP-79 b            ,0.9,0.08,Mjup,2.09,0.14,Rjup,2012A&A...547A..61S
+WASP-80 b            ,0.562,0.027,Mjup,0.986,0.022,Rjup,2014A&A...562A.126M
+WASP-84 b            ,0.687,0.033,Mjup,0.976,0.025,Rjup,2015ApJ...800L...9A
+WASP-85 b            ,1.265,0.062,Mjup,1.24,0.03,Rjup,2016AJ....151..150M
+WASP-87 b            ,2.18,0.15,Mjup,1.385,0.06,Rjup,2014arXiv1410.3449A
+WASP-89 b            ,5.9,0.4,Mjup,1.04,0.04,Rjup,2015AJ....150...18H
+WASP-90 b            ,0.63,0.07,Mjup,1.63,0.09,Rjup,2016A&A...585A.126W
+WASP-96 b            ,0.48,0.03,Mjup,1.2,0.06,Rjup,2014MNRAS.440.1982H
+WASP-97 b            ,1.32,0.05,Mjup,1.13,0.06,Rjup,2014MNRAS.440.1982H
+WASP-98 b            ,0.83,0.07,Mjup,1.1,0.04,Rjup,2014MNRAS.440.1982H
+WASP-100 b           ,2.03,0.12,Mjup,1.69,0.29,Rjup,2014MNRAS.440.1982H
+WASP-101 b           ,0.5,0.04,Mjup,1.41,0.05,Rjup,2014MNRAS.440.1982H
+WASP-103 b           ,1.47,0.11,Mjup,1.554,0.045,Rjup,2015MNRAS.447..711S
+WASP-104 b           ,1.272,0.047,Mjup,1.137,0.037,Rjup,2014A&A...570A..64S
+WASP-108 b           ,0.892,0.055,Mjup,1.284,0.047,Rjup,2014arXiv1410.3449A
+WASP-109 b           ,0.91,0.13,Mjup,1.443,0.053,Rjup,2014arXiv1410.3449A
+WASP-110 b           ,0.51,0.064,Mjup,1.238,0.056,Rjup,2014arXiv1410.3449A
+WASP-111 b           ,1.83,0.15,Mjup,1.443,0.094,Rjup,2014arXiv1410.3449A
+WASP-112 b           ,0.88,0.12,Mjup,1.191,0.049,Rjup,2014arXiv1410.3449A
+WASP-120 b           ,5.01,0.26,Mjup,1.515,0.083,Rjup,2016PASP..128f4401T
+WASP-121 b           ,1.183,0.064,Mjup,1.865,0.044,Rjup,2016MNRAS.458.4025D
+WASP-122 b           ,1.372,0.072,Mjup,1.792,0.069,Rjup,2016PASP..128f4401T
+WASP-123 b           ,0.92,0.05,Mjup,1.327,0.074,Rjup,2016PASP..128f4401T
+WASP-135 b           ,1.9,0.08,Mjup,1.3,0.09,Rjup,2016PASP..128b4401S
+WTS-2 b              ,1.12,0.16,Mjup,1.363,0.061,Rjup,2014MNRAS.440.1470B
+XO-1 b               ,0.924,0.077,Mjup,1.206,0.041,Rjup,2010MNRAS.408.1689S
+XO-2 b               ,0.597,0.021,Mjup,1.019,0.031,Rjup,2015A&A...575A.111D
+XO-3 b               ,11.83,0.38,Mjup,1.248,0.049,Rjup,2010MNRAS.408.1689S
+XO-5 b               ,1.19,0.031,Mjup,1.142,0.034,Rjup,2015AcA....65..117S
