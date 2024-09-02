@@ -63,9 +63,9 @@ you need to unzip them (`gunzip`) before you can run the notebooks.
 ## Artwork
 
 <dl>
-    <dd>Figure 3.2 - `Fig3_2.jpg`: Schematic of the orbits of Mars and Jupiter with labels (from original PowerPoint)
+    <dd>Figure 3.2 - `Fig3_2.jpg`: Schematic of the orbits of Mars and Jupiter with labels (original PowerPoint)
     <dd>Figure 3.5 - `Fig3_5.png`: Surface of section for the quasi-periodic orbit examined in Figure 3.4 (original provided by Carl Murray)
     <dd>Figure 3.7 - `Fig3_7.png`: Surface of section for the chaotic orbit examined in Figure 3.6 (original provided by Carl Murray)
-    <dd>Figure 3.11 - `Fig3_11.jpg`: Schematic of the Io, Europa, and Ganymede Laplace resonance (from original PowerPoint)
+    <dd>Figure 3.11 - `Fig3_11.jpg`: Schematic of the Io, Europa, and Ganymede Laplace resonance (original PowerPoint)
 </dl>
 
