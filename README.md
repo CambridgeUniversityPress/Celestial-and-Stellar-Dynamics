@@ -32,19 +32,17 @@ LaTeX is required for math symbols in the notebooks.
 ### Optional Packages
 
 Some of the figures in the book used the [galpy](https://github.com/jobovy/galpy) Python package for galactic dynamics by Jo Bovy.
-Because galpy can be computationally intensive, the figures using galpy computations in this repository use pre-calculated
-data for simplicity.  However, we include the versions of the notebooks that execute galpy directly for those who wish to install the package
-and explore on their own.
+Because `galpy` is relatively efficient and easy to install (well-integrated with Anaconda python 3), we do all the `galpy` calculations
+in-situ in the notebooks.
 
 Another set of figures used the Python version of the [rebound](https://rebound.readthedocs.io/en/latest/) N-body integrator package
-developed by Hanno Rein and collaborators. As with galpy, figures in this set that use rebound computations work with pre-calculated 
-files for simplicity.  Installation of rebound is more involved, but if you want to run rebound for yourself or your students, 
-we provide the notebooks that ran rebound for our figures to illustrate how it is used.
+developed by Hanno Rein and collaborators. Because installation of `rebound` is more involved and runtimes can be long, 
+we use pre-computed `rebound` models for the primary notebooks, but provide the notebooks that ran `rebound` for the figures.
 
-The galpy and rebound packages have active user communities and there are many examples and guides to help you explore these
+The `galpy` and `rebound` packages have active user communities and there are many examples and guides to help you explore these
 powerful programs on your own.
 
-Supplementary exercises for students using galpy and rebound are being developed and will be released later.
+Supplementary exercises for students using `galpy` and `rebound` are being contemplated and will be released later when developed.
 
 ## Downloads
 
