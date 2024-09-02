@@ -13,7 +13,7 @@ Figures from Chapter 7 of Ryden, *Celestial and Stellar Dynamics*.
 
 ### Dependencies
 
-Notebooks for Figures 7.3 and 7.6 use Jo Bovy's [`galpy` code](https://github.com/jobovy/galpy), see Bovy, [2015, ApJS, 216, 29](https://ui.adsabs.harvard.edu/abs/2015ApJS..216...29B). 
+Notebooks for Figures 7.3 and 7.6 use Jo Bovy's [`galpy`](https://github.com/jobovy/galpy), see Bovy, [2015, ApJS, 216, 29](https://ui.adsabs.harvard.edu/abs/2015ApJS..216...29B). 
 Installation is straightforward (pip or conda) with the recommended Anaconda python 3 distribution, so we don't need to precalculate the data.
 
 ## Artwork
