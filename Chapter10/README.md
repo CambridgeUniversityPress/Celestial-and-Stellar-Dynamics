@@ -23,6 +23,6 @@ Observed surface density profile and line-of-sight velocities for gobular cluste
 
 <dl>
     <dd>Figure 10.1 - Mean stellar luminosity as a function of radius in the globular cluster NGC6397, figure provided by Elizadra Martinazzi
-    <dd>Figure 10.3 - Time Eeolution of the density profile of a spherical isotropic globular cluster from Cohn 1980
+    <dd>Figure 10.3 - Time evolution of the density profile of a spherical isotropic globular cluster from Cohn 1980
     <dd>Figure 10.4 - Example of a resonant exchange between a binary and a field star from Hut and Bahcall 1983
 </dl>
