@@ -5,7 +5,7 @@ Figures from Chapter 8 of Ryden, *Celestial and Stellar Dynamics*.
 ## Jupyter Notebooks
 
 <dl>
-    <dd>Figure 8.1 - Density and speed profiles for King models
+    <dd>Figure 8.1 - Density and speed profiles for King and Plummer models
     <dd>Figure 8.2 - Globular cluster surface density profiles
     <dd>Figure 8.4 - Logarithmic spiral
     <dd>Figure 8.5 - Toomre density wave dispersion relation
@@ -13,9 +13,21 @@ Figures from Chapter 8 of Ryden, *Celestial and Stellar Dynamics*.
 
 ## Data Files
 
-### Figure 8.1 - ...
+### Figure 8.1 - Density and speed profiles for King and Plummer models
 
-`dataFile.txt` is ...
+Data for three King models computed using the online [BHKing calculator](http://www.cosmic-lab.eu/bhking/) on the [Cosmic-Lab website](http://www.cosmic-lab.eu/Cosmic-Lab/Home.html).
+ * `KingModel_W4.txt` - ASCII 4-column text file with a King model with $W_0=4$
+ * `KingModel_W8.txt` - ASCII 4-column text file with a King model with $W_0=8$
+ * `KingModel_W12.txt` - ASCII 4-column text file with a King model with $W_0=12$
+
+The Plummer model data are computed analytically in-situ by the notebook.
+
+### Figure 8.2 - Globular cluster surface density profiles
+
+Data and a King model fit to globular cluster 47 Tucanae from de Boer et al. [2019, MNRAS, 485, 4906](https://ui.adsabs.harvard.edu/abs/2019MNRAS.485.4906D) with
+the King profiles on his [GitHub repository](https://github.com/tdboer/GC_profiles), folder `stitched_profiles/`
+ * `47Tuc_deBoer.txt` - ASCII 3-column text file with the observed number density profile and error of 47 Tucanae
+ * `47Tuc_KingModel.txt` - ASCII 2-column text file with the King model fit to the observed number density profile
 
 ## Artwork
 
