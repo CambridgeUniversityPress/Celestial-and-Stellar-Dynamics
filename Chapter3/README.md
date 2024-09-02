@@ -14,6 +14,8 @@ Figures from Chapter 3 of Ryden, *Celestial and Stellar Dynamics*.
     <dd>Figure 3.10 - Jupiter Tisserand parameters
 </dl>
 
+Versions of Figures 3.4 and 3.6 using in-situ `rebound` model calculations are in the `rebound sims/` folder.
+
 ## Data Files
 
 ### Figure 3.1 - Asteroid Belt Kirkwood Gaps
