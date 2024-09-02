@@ -33,10 +33,10 @@ and provided to the author.
 ## Artwork
 
 <dl>
-    <dd>Figure 2.1 - `Fig2_1.jpg`: 2-body configuration (PowerPoint original)
+    <dd>Figure 2.1 - `Fig2_1.jpg`: 2-body configuration (original PowerPoint)
     <dd>Figure 2.5 - `Fig2_5.jpg`: Tadpole orbits around the L5 point from Rabe 1961 (scan from journal)
     <dd>Figure 2.6 - `Fig2_6.jpg`: Horseshoe orbits around L4 and L5 from Rabe 1961 (scan from journal)
-    <dd>Figure 2.8 - `Fig2_8.jpg`: 3-body configuration of a hierarchical triple system (PowerPoint original)
-    <dd>Figure 2.9 - `Fig2_9.jpg`: Relative positions of bodies in a hierarchical triple system (PowerPoint original)
+    <dd>Figure 2.8 - `Fig2_8.jpg`: 3-body configuration of a hierarchical triple system (original PowerPoint)
+    <dd>Figure 2.9 - `Fig2_9.jpg`: Relative positions of bodies in a hierarchical triple system (original PowerPoint)
 </dl>
 
