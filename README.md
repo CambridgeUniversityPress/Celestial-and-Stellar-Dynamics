@@ -25,19 +25,21 @@ and new explorations rather than being frozen into print.
 
 All notebooks were developed in Python 3 using the [Anaconda Python distribution](https://www.anaconda.com). 
 
-Required packages are numpy, scipy, pandas, matplotlib, and astropy, all part of Anaconda.
+Required packages are numpy, scipy, pandas, matplotlib, and astropy, all part of Anaconda. Please update
+matplotlib to later than version 3.8 as the contour routines changed significantly and we made use of 
+some low-level features that changed behavior in later versions.
 
 LaTeX is required for math symbols in the notebooks.
 
 ### Optional Packages
 
-Some of the figures in the book used the [galpy](https://github.com/jobovy/galpy) Python package for galactic dynamics by Jo Bovy.
-Because `galpy` is relatively efficient and easy to install (well-integrated with Anaconda python 3), we do all the `galpy` calculations
-in-situ in the notebooks.
+Some of the figures in the book use the [galpy](https://github.com/jobovy/galpy) Python package for galactic dynamics by Jo Bovy.
+Because `galpy` is relatively efficient and easy to install, we do all the `galpy` calculations in-situ in the notebooks.
 
-Another set of figures used the Python version of the [rebound](https://rebound.readthedocs.io/en/latest/) N-body integrator package
+Another set of figures uses the Python version of the [rebound](https://rebound.readthedocs.io/en/latest/) N-body integrator package
 developed by Hanno Rein and collaborators. Because installation of `rebound` is more involved and runtimes can be long, 
-we use pre-computed `rebound` models for the primary notebooks, but provide the notebooks that ran `rebound` for the figures.
+we provide pre-computed `rebound` models for the relevant notebooks, but inlclude the notebooks that ran `rebound` for the figures
+as a supplement.
 
 The `galpy` and `rebound` packages have active user communities and there are many examples and guides to help you explore these
 powerful programs on your own.
