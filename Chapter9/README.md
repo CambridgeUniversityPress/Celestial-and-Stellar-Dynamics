@@ -14,7 +14,7 @@ Figures from Chapter 9 of Ryden, *Celestial and Stellar Dynamics*.
 
 ### Figure 9.7 - Globular cluster tidal and Hill radii
 
-`GC_rt_rh.csv` is a CSV file with truncation radii of King models and Hill radii for a sample of 80 globular clusters from Harris 1996, Baumgardt & Hilker 2018, and Baumgardt et al. 2019.
+`GC_rt_rh.csv` is a CSV file with tidal truncation radii of King models and Hill radii for a sample of 80 globular clusters from Harris 1996, Baumgardt & Hilker 2018, and Baumgardt et al. 2019.
 
 ## Artwork
 
