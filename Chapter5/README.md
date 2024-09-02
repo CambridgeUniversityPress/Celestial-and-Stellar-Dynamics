@@ -53,8 +53,8 @@ Exoplanet models model M-R relations for spheres of pure iron, rock, water, and 
 ## Artwork
 
 <dl>
-    <dd>Figure 5.1 - `Fig5_1.jpg`: schematic of the projected orbit of a star-exoplanet system (PowerPoint original)
-    <dd>Figure 5.4 - `Fig5_4.jpg`: annotated schematic of a projected transiting exoplanet orbit (PowerPoint original)
-    <dd>Figure 5.5 - `Fig5_5.jpg`: annotated schematic orbit and light-curve of a transiting exoplanet (PowerPoint original)
+    <dd>Figure 5.1 - `Fig5_1.jpg`: schematic of the projected orbit of a star-exoplanet system (original PowerPoint)
+    <dd>Figure 5.4 - `Fig5_4.jpg`: annotated schematic of a projected transiting exoplanet orbit (original PowerPoint)
+    <dd>Figure 5.5 - `Fig5_5.jpg`: annotated schematic orbit and light-curve of a transiting exoplanet (original PowerPoint)
 </dl>
 
