@@ -33,6 +33,6 @@ Hernquist, and Navarro, Frenk, and White (NFW) models calculated by the author.
 ## Artwork
 
 <dl>
-    <dd>Figure 6.5 - schematic of the geometry of an infinitesimally thin disk (PowerPoint original)
+    <dd>Figure 6.5 - schematic of the geometry of an infinitesimally thin disk (original PowerPoint)
 </dl>
 
