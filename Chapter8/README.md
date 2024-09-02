@@ -24,10 +24,12 @@ The Plummer model data are computed analytically in-situ by the notebook.
 
 ### Figure 8.2 - Globular cluster surface density profiles
 
-Data and a King model fit to globular cluster 47 Tucanae from de Boer et al. [2019, MNRAS, 485, 4906](https://ui.adsabs.harvard.edu/abs/2019MNRAS.485.4906D) with
+Data and a King model fit to globular clusters NGC6366 and 47 Tucanae from de Boer et al. [2019, MNRAS, 485, 4906](https://ui.adsabs.harvard.edu/abs/2019MNRAS.485.4906D) with
 the King profiles on his [GitHub repository](https://github.com/tdboer/GC_profiles), folder `stitched_profiles/`
- * `47Tuc_deBoer.txt` - ASCII 3-column text file with the observed number density profile and error of 47 Tucanae
- * `47Tuc_KingModel.txt` - ASCII 2-column text file with the King model fit to the observed number density profile
+ * `NGC6366_deBoer.txt` - ASCII 3-column text file with the observed number density profile and error for NGC6366
+ * `NTC6366_KingModel.txt` - ASCII 2-column text file with the King model fit to the observed NGC6366 number density profile
+ * `47Tuc_deBoer.txt` - ASCII 3-column text file with the observed number density profile and error for 47 Tucanae
+ * `47Tuc_KingModel.txt` - ASCII 2-column text file with the King model fit to the observed 47 Tuc number density profile
 
 ## Artwork
 
