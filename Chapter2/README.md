@@ -18,6 +18,8 @@ Figures from Chapter 2 of Ryden, *Celestial and Stellar Dynamics*.
 
 `MPC_JupiterTrojans.csv` contains orbit elements for Jupiter Trojan asteroids
 from the [Minor Planet Center (MPC) orbit MPCORB database](https://minorplanetcenter.net/data) in CSV format.
+See the `Chapter3/Asteroids` folder for the next chapter for the `procOrb.ipynb` notebook used to
+generate this subset, and notes in the `Chapter3/README.md` file about the orbit elements databases.
 
 ### Figure 2.7 - Horseshoe orbit of 2013 BS45
 
