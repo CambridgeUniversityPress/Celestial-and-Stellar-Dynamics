@@ -20,6 +20,8 @@ Versions of Figures 3.4 and 3.6 using in-situ `rebound` model calculations are i
 
 ### Orbit Elements
 
+#### IAU Minor Planet Center (MPC) Orbit Database
+
 Many of the notebooks in this folder use orbit element data obtained from the [IAU Minor Planet Center (MPC) orbit database](https://minorplanetcenter.net/data), 
 specifically:
 <dl>
@@ -27,15 +29,21 @@ specifically:
    <dd>`AllCometEls.txt` - Orbits for all comets in the MPC database (updated a few times a month when new comets are identified)</dd>
 </dl>
 
-We also use proper orbit elements from the [ESA Asteroid Dynamics Site (AstDyS-2)](https://newton.spacedys.com/astdys2), specifically 
+#### ESA Asteroid Dynamics AstDyS-2 Database
+
+Two figures use proper orbit elements from the [ESA Asteroid Dynamics Site (AstDyS-2)](https://newton.spacedys.com/astdys2), specifically 
 `all.syn`, the catalog of proper orbit elements for Main Belt and Hungaria asteroids.
+
+#### Updating or regenerating data files
 
 Selection criteria for the subset of orbit elements plotted are described in the notes and individual notebooks, including notebooks
 that show how creation of smaller subset files are derived from the online databases.
 
 If using these notebooks, it is advisable to consider downloading updates from the original sources and rextracting new catalogs as
 needed.  The `procOrb.ipynb` Jupyter notebook in the `Asteroids` folder shows how to extract subcatalogs from the main data catalogs
-downloaded from the MPC or AstDyS-2 databases.
+downloaded from the MPC or AstDyS-2 databases.  
+
+**Data files were last updated on 2024 Nov 10**
 
 ### Figure 3.1 - Asteroid Belt Kirkwood Gaps
 
