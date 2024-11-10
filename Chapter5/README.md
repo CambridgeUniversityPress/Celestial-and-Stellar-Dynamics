@@ -35,11 +35,11 @@ Observed exoplanet masses and radii from a number of sources:
  * `MassRadius/SolarSystem_Major.csv` is a CSV file with masses and radii of major solar system bodies from the JPL Horizons database
 
 Exoplanet models model M-R relations for spheres of pure iron, rock, water, and molecular hydrogen from Li Zeng's website (lweb.cfa.harvard.edu/~lzeng/planetmodels.html)
- * `Zeng_MR_EarthlikeRocky.txt` - Earth-like rocky composition planets
- * `Zeng_MR_PureFe.txt` - pure iron planets
- * `Zeng_MR_PureH2.txt` - pure molecular hydrogen planets
- * `Zeng_MR_PureRock.txt` - pure rock planets
- * `Zeng_MR_PureH2O.txt` - pure water planets
+ * `MassRadius/Zeng_MR_EarthlikeRocky.txt` - Earth-like rocky composition planets
+ * `MassRadius/Zeng_MR_PureFe.txt` - pure iron planets
+ * `MassRadius/Zeng_MR_PureH2.txt` - pure molecular hydrogen planets
+ * `MassRadius/Zeng_MR_PureRock.txt` - pure rock planets
+ * `MassRadius/Zeng_MR_PureH2O.txt` - pure water planets
 
 ### Figure 5.7 - Transit Timing Variations in WASP-12b
 
