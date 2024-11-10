@@ -2,7 +2,7 @@
 
 Jupyter notebooks, python code, and selected data files and sources for the figures from *Celestial and Stellar Dynamics* by Barbara Ryden.
 
-**In production, coming soon...**
+**In production, coming in February 2025...**
 
 [!["CSD Cover"](Misc/CSD_Cover_512.png?raw=true "Celestial and Stellar Dynamics")](https://www.cambridge.org/highereducation/books/stellar-structure-and-evolution/B6F803BC5085E8736B640F9ED4A0FA27)
 
@@ -25,11 +25,14 @@ and new explorations rather than being frozen into print.
 
 All notebooks were developed in Python 3 using the [Anaconda Python distribution](https://www.anaconda.com). 
 
-Required packages are numpy, scipy, pandas, matplotlib, and astropy, all part of Anaconda. Please update
-matplotlib to later than version 3.8 as the contour routines changed significantly and we made use of 
-some low-level features that changed behavior in later versions.
+Required packages are numpy, scipy, pandas, matplotlib, and astropy, all part of Anaconda. 
 
 LaTeX is required for math symbols in the notebooks.
+
+**Note**: Please update
+matplotlib to later than version 3.8 as the contour routines changed significantly compared to previous
+versions and we made use of some low-level features that required changes to the code that are not 
+backwards compatible with older versions.
 
 ### Optional Packages
 
@@ -44,7 +47,8 @@ as a supplement.
 The `galpy` and `rebound` packages have active user communities and there are many examples and guides to help you explore these
 powerful programs on your own.
 
-Supplementary exercises for students using `galpy` and `rebound` are being contemplated and will be released later when developed.
+Supplementary exercises for students using `galpy` and `rebound` are being contemplated and may be released later on this 
+repository.
 
 ## Downloads
 
