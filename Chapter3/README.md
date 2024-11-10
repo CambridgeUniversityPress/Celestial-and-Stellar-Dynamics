@@ -34,7 +34,8 @@ Selection criteria for the subset of orbit elements plotted are described in the
 that show how creation of smaller subset files are derived from the online databases.
 
 If using these notebooks, it is advisable to consider downloading updates from the original sources and rextracting new catalogs as
-needed.
+needed.  The `procOrb.ipynb` Jupyter notebook in the `Asteroids` folder shows how to extract subcatalogs from the main data catalogs
+downloaded from the MPC or AstDyS-2 databases.
 
 ### Figure 3.1 - Asteroid Belt Kirkwood Gaps
 
