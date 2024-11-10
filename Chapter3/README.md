@@ -45,7 +45,7 @@ Hungarias, Hildas, and Jupiter Trojans. All are brighter than H=16. This is fast
 ### Figure 3.3 - Hilda 3:2 resonant family asteroids
 
 `Asteroids/MPC_Hildas.csv` is a CSV file with orbit elements extracted from the MPCORB database for the Hilda family asteroids
-(see the `procOrb.ipynb` notebook in the `SolSys` folder for how these are extracted).
+(see the `procOrb.ipynb` notebook in the `Asteroids` folder for how these are extracted).
 
 ### Figure 3.4 - Quasi-periodic test asteroid
 
