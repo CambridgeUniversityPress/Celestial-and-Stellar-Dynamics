@@ -9,3 +9,6 @@ to speed up plotting (rather than reading in all 1.3 million MPCORB data records
 
 We have to gzip compress these to put them onto GitHub - you will need to unzip them after downloading
 the repository before using them.
+
+The `procOrb.ipynb` notebook is provided that shows how we derived subsets of the main catalogs for
+plotting in the notebooks for Chapter 3.
