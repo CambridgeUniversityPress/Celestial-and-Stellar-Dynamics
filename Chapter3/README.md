@@ -18,14 +18,32 @@ Versions of Figures 3.4 and 3.6 using in-situ `rebound` model calculations are i
 
 ## Data Files
 
+### Orbit Elements
+
+Many of the notebooks in this folder use orbit element data obtained from the [IAU Minor Planet Center (MPC) orbit database](https://minorplanetcenter.net/data), 
+specifically:
+<dl>
+   <dd>`MPCORB.DAT` - Orbits for all asteroids in the MPC database (updated daily)</dd>
+   <dd>`AllCometEls.txt` - Orbits for all comets in the MPC database (updated a few times a month when new comets are identified)</dd>
+</dl>
+
+We also use proper orbit elements from the [ESA Asteroid Dynamics Site (AstDyS-2)](https://newton.spacedys.com/astdys2), specifically 
+`all.syn`, the catalog of proper orbit elements for Main Belt and Hungaria asteroids.
+
+Selection criteria for the subset of orbit elements plotted are described in the notes and individual notebooks, including notebooks
+that show how creation of smaller subset files are derived from the online databases.
+
+If using these notebooks, it is advisable to consider downloading updates from the original sources and rextracting new catalogs as
+needed.
+
 ### Figure 3.1 - Asteroid Belt Kirkwood Gaps
 
-`Asteroids/MPC_Kirkwood.csv` is a CSV file with orbit elements from the MPCORB database for all asteroids in the Main Belt plus the 
+`Asteroids/MPC_Kirkwood.csv` is a CSV file with orbit elements extracted from the MPCORB database for all asteroids in the Main Belt plus the 
 Hungarias, Hildas, and Jupiter Trojans. All are brighter than H=16. This is faster than reading all roughly 1.3 million entries in the full MPCORB database.
 
 ### Figure 3.3 - Hilda 3:2 resonant family asteroids
 
-`Asteroids/MPC_Hildas.csv` is a CSV file with orbit elements from the MPCORB database for the Hilda family asteroids
+`Asteroids/MPC_Hildas.csv` is a CSV file with orbit elements extracted from the MPCORB database for the Hilda family asteroids
 (see the `procOrb.ipynb` notebook in the `SolSys` folder for how these are extracted).
 
 ### Figure 3.4 - Quasi-periodic test asteroid
@@ -51,7 +69,7 @@ Near Earth Studies for a useful table).
 `Asteroids/MPC_MainBeltPlus.csv` is a CSV file with orbit elements from the MPCORB database of all asteroids in the Main Belt
 plus the Hungarias, Hildas, and Jupiter Trojans brighter than H=16.
 
-`Asteroids/MPC_AllCometEls.txt` is comet orbit data from AllCometEls.txt from the MPC. Here we use a fixed-width file and setup
+`Asteroids/MPC_AllCometEls.txt` is comet orbit data from `AllCometEls.txt` from the MPC. Here we use a fixed-width file and setup
 with a table of the widths from https://www.minorplanetcenter.net/iau/info/CometOrbitFormat.html to read in the data.  Data are
 slightly edited relative to the MPC originals for clarity and renamed to distinguish it from the other files we provide.
 
