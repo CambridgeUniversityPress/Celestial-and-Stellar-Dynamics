@@ -72,8 +72,26 @@ If there are no updates, your local copy will be unaffected.
 
 The notebooks and their contents are original works of the authors and often include data obtained from public archives or from 
 professional colleagues (always from published sources).  We ask that users preserve all literature citations to the original work
-from which such data were derived, and give proper credit when using them. If you use these notebooks, please make
-reference to the *Celestial and Stellar Dynamics* book and this repository.
+from which such data were derived, and give proper credit when using them. 
+
+If you use these notebooks, please cite the  *Celestial and Stellar Dynamics* book (see below), including the figure number and the 
+repository (include the GitHub url) with the original code. If the plot you are using (or replotting) includes data, also include a
+citation of the data source (journal article, online database, etc.).
+
+### Book Citation
+
+DOI: [10.1017/9781108871013](https://doi.org/10.1017/9781108871013)
+
+#### BibTeX
+BibTeX citation text ready to cut-and-paste. 
+```
+@book{Ryden_2025,
+       author = {Ryden, Barbara},
+       title = {Celestial and Stellar Dynamics},
+       year = {2025},
+       doi = {10.1017/9781108871013}
+}
+```
 
 ### License Notice
 
